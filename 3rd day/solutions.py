@@ -10,3 +10,6 @@ print(result)  # Output: Thirty Days Of Python
 result = 'Coding' + ' ' + 'For' + ' ' + 'All'
 print(result)  # Output: Coding For All
 
+#Q3 solutions
+company = "Coding For All"
+print(company)  # Output: Coding For All
